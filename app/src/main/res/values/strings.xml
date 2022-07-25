@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bkash</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="cashing_out_from_app_nagad">Cashing out from App 1.149%</string>
+    <string name="cashing_out_from_app_bkash">Cashing out from App 1.75%</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bkash_cashout_calculator">Bkash Cashout Calculator</string>
+    <string name="nagad_cashout_calculator">Nagad Cashout Calculator</string>
+    <string name="input_amount">Please enter amount.</string>
+    <string name="settings">settings</string>
+    <string name="home">home</string>
+
+    <string-array name="details">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+</resources>
